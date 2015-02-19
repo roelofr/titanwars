@@ -1,0 +1,7 @@
+"TitanWars"
+{
+	"base"		    "base"
+	"title"		    "TitanWars"
+	"maps"		    "^ttw_"
+	"menusystem"	"1"
+}
