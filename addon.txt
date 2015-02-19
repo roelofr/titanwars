@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"TitanWars Gamemode"
+	"version"			"0.1"
+	"up_date"			"19-02-2015"
+	"author_name"		"Roelof"
+	"author_email"		"garrysmod@roelof.io"
+	"author_url"		"https://github.com/roelofr/titanwars"
+	"info"				"A Garry's Mod combat gamemode inspired by the Titan gamemode from Battlefield 2142."
+	"override"			"0"
+}

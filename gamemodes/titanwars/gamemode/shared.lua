@@ -10,10 +10,10 @@
 
 -----------------------------------------------------------]]
 
-GM.Name 		= "Cloud RP"
+GM.Name 		= "TitanWars"
 GM.Author 		= "Roelof"
-GM.Email 		= "roelof@tmg-clan.com"
-GM.Website 		= "www.tmg-clan.com"
+GM.Email 		= "garrysmod@roelof.io"
+GM.Website 		= "https://github.com/roelofr/titanwars"
 GM.TeamBased 	= false
 
 if SERVER then
